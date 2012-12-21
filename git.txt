@@ -14,3 +14,6 @@ git push -u origin master
 
 Switch branches:
 git checkout gh-pages
+
+Copy all files to depot:
+git pull origin master
