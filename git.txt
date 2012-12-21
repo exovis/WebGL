@@ -11,3 +11,6 @@ git commit -m "List of changes"
 
 Push all commits to github:
 git push -u origin master
+
+Switch branches:
+git checkout gh-pages
