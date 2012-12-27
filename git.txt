@@ -1,16 +1,18 @@
-Sample new file, text based.
+GIT INSTRUCTIONS
+
+Switch branches:
+git checkout gh-pages
 
 Add to git:
 git add .
-
-Remove a file:
-git rm file1.txt
 
 Commit to cloud:
 git commit -m "List of changes"
 
 Push all commits to github:
-git push -u origin master
+git push -u origin gh-pages
 
-Switch branches:
-git checkout gh-pages
+
+EXTRA
+Remove a file:
+git rm file1.txt
